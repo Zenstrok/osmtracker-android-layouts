@@ -8,6 +8,7 @@ This is OSMTracker's default repository for download custom layouts functionalit
 
 ## Available Layouts: (in alphabetical order)
 + [Accesibilidad.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/accesibilidad/README.md)
++ [Arte.] (https://github.com/zenstrok/osmtracker-android-layouts/blob/master/layouts/arte/README.md)
 + [Hidrantes.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/hidrantes/README.md)
 + [Macroplastics pollution](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/macroplastics_pollution/README.md)
 + [Max Speed.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/maxspeed/README.md)
