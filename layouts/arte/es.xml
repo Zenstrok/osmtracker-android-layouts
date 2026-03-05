@@ -9,7 +9,7 @@
 		<row>
 			<button type="tag" label="Teatro" icon="/arte/teatro.png" />
 			<button type="tag" label="Cine" icon="/arte/cine.png" />
-			<button type="tag" label="Pintura - Pared" icon="/arte/rodillo-de-pintura.png" />
+			<button type="tag" label="Arte en Pared" icon="/arte/rodillo-de-pintura.png" />
 		</row>
 	</layout>
 </layouts>
